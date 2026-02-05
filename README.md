@@ -2,6 +2,7 @@
 
 ## Data Visualization in PowerBI
 
+![Sales Analysis dashboard](https://github.com/MAHA1997-GHUB/PowerBI_DAX_E_Commerce_Sales_Dashboard/blob/main/IMG-20251209-WA0065(1).jpg)
 This assignment will help you explore e-commerce sales data analysis using Power BI.
 
 Used DAX (Data Analysis Expressions) to analyze and transform e-commerce sales data, generating key metrics and insights.
